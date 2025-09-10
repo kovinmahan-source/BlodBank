@@ -20,7 +20,7 @@ A modern MERN stack application for managing blood donations, inventory, and use
 
 1. **Clone the repository**
    ```
-   git clone [<your-repo-url>](https://github.com/kovinmahan-source/BlodBank)
+   git clone https://github.com/kovinmahan-source/BlodBank
    ```
 2. **Install server dependencies**
    ```
